@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "01-css-methods",
+			"path": "../01-css-methods"
+		},
+		{
+			"name": "03-grouping-selectors",
+			"path": "../03-grouping-selectors"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "04-chaining-selectors"
+	}
+}
